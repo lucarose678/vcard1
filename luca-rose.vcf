@@ -2,10 +2,9 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Luca Rose
 N:Rose;Luca;;;
-ORG:Freelance Creator
-TITLE:Social Media Consultant
+ORG:Fresh Beads
+TITLE:CEO
 TEL;TYPE=CELL:+64211234567
-EMAIL:luca@email.com
-URL:https://www.lucarose.com
+EMAIL:lro9524@stacmail.net
 PHOTO;VALUE=URL;TYPE=JPEG:https://www.lucarose.com/photo.jpg
 END:VCARD
